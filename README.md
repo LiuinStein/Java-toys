@@ -1,6 +1,7 @@
-# Java-toys
+# Attention:
 
-Here are some codes for black magic or experiments.
+**!!!GO BACK RIGHT NOW!!!**
 
-## 0x00 Directories' structure
+This repository has some dangerous codes, very very very dangerous. If you download & run this code on your computer, it will **totally destroy** your data, your computer or even the whole cyber-world!
 
+**!!!GO BACK RIGHT NOW!!!**
