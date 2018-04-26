@@ -16,6 +16,6 @@
             <property name="enableSubPackages" value="true"/>
             <property name="trimStrings" value="true"/>
         </javaModelGenerator>
-        <table tableName="t_personnel" domainObjectName="UserInfo"></table>
+        <table tableName="t_class" domainObjectName="UserDepartment"/>
     </context>
 </generatorConfiguration>

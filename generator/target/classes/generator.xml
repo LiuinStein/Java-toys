@@ -5,7 +5,7 @@
 <generatorConfiguration>
     <context id="mysql" targetRuntime="MyBatis3">
         <commentGenerator>
-            <property name="suppressAllComments" value="false"/>
+            <property name="suppressAllComments" value="true"/>
         </commentGenerator>
 
         <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
@@ -16,6 +16,6 @@
             <property name="enableSubPackages" value="true"/>
             <property name="trimStrings" value="true"/>
         </javaModelGenerator>
-        <table tableName="t_personnel" domainObjectName="UserInfo"></table>
+        <table tableName="t_class" domainObjectName="UserDepartment"/>
     </context>
 </generatorConfiguration>
